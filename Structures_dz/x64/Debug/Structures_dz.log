@@ -1,0 +1,3 @@
+﻿  Structures_dz.cpp
+D:\Проекты\Structures_dz\Structures_dz.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Structures_dz.vcxproj -> D:\Проекты\Structures_dz\x64\Debug\Structures_dz.exe
